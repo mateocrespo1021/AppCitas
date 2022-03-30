@@ -1,0 +1,47 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+*,*::after,*::before{
+    box-sizing: inherit;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: wheat;
+    max-width: 100rem;
+    height: 25rem;
+    margin: 15rem auto;
+    padding: 1rem;
+}
+
+.cita-contenedor{
+    width: 70rem;
+}
+
+.cita-p{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.cita-p span{
+    font-weight: normal;
+}
+
+
+.btn-cita{
+    background-color: brown;
+    padding: 1rem;
+    color: white;
+    border-radius: 1rem;
+    border: none;
+    align-self: flex-end;
+}
