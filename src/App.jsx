@@ -1,6 +1,6 @@
 
 import './App.css'
-import QuoteBox from './components/QuoteBox'
+import QuoteBox from './components/QuoteBox/QuoteBox'
 
 function App() {
 

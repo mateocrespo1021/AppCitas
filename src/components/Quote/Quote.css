@@ -1,0 +1,38 @@
+.cita-p {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.cita-p span {
+  font-weight: normal;
+}
+
+.cita-contenedor{
+    width: 70rem;
+    text-align: center;
+}
+
+
+/*Clases para los colores*/
+.darkgray {
+  color: #a9a9a9;
+}
+.darkgreen {
+  color: #006400;
+}
+.darkkhaki {
+  color: #bdb76b;
+}
+.burlywood {
+  color: #deb887;
+}
+.cadetblue {
+  color: #5f9ea0;
+}
+.cornflowerblue {
+  color: #6495ed;
+}
+.mediumseagreen {
+  color: #3cb371;
+}
